@@ -1,5 +1,6 @@
-# HALF_ADDER_SUBTRACTOR
-
+NAME : RAGUL K R
+REG.NO:24900660
+EXP.NO:3- HALF_ADDER_SUBTRACTOR
 Implementation-of-Half-Adder-and-Half Subtractor-circuit
 
 *AIM:*
