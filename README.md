@@ -83,4 +83,4 @@ HALF SUBTRACTER
 
 
 ## Result:
-The Truth table of the half subtractor and full adder are verified.
+Thus, we designed a half adder and half subractor circuit and verified its truth table in quartus using verilog programming.
