@@ -82,18 +82,5 @@ HALF SUBTRACTER
 ![WhatsApp Image 2025-01-06 at 04 03 32_cc019037](https://github.com/user-attachments/assets/85f822c3-1438-4649-9b1d-70148765bfde)
 
 
-HALF ADDER
-
-![WhatsApp Image 2024-11-26 at 17 10 02_253d6417](https://github.com/user-attachments/assets/5b9b5ff3-0819-4f63-81ad-9cb5adf876cd)
-
-
-
-HALF SUBTRACTER
-
-![WhatsApp Image 2024-11-26 at 17 10 02_ab26a96e](https://github.com/user-attachments/assets/a66ea437-7fa1-4bb8-9764-b3554a390c35)
-
-
-
-
-*Result:*
+## Result:
 The Truth table of the half subtractor and full adder are verified.
