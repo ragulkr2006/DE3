@@ -1,7 +1,7 @@
 ## NAME : RAGUL K R
 ## REG.NO:24900660
-## EXP.NO:3- HALF_ADDER_SUBTRACTOR
-## Implementation-of-Half-Adder-and-Half Subtractor-circuit
+## EXP.No-3: IMPLEMENTATION OF HALF ADDER AND HALF SUBRACTOR
+
 
 *AIM:*
 
